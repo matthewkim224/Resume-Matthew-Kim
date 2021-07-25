@@ -1,12 +1,12 @@
 import React from 'react';
 import '../../App.css';
-import Cards from '../Cards';
+import CardsHob from '../CardsHob';
 
 function Hobbies() {
     return(
         <>
        <h1>HOBBIES</h1>
-       <Cards />
+       <CardsHob />
         </>
     );
 }
