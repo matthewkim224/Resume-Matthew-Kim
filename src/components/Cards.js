@@ -43,7 +43,7 @@ function Cards() {
                     <ul className="cards__items">
 
                     <CardItem 
-                    src="images/c.png"
+                    src="images/c-logo.png"
                     text="C++/C#/C"
                     label = 'Technical Skills'
                     />
@@ -96,13 +96,13 @@ function Cards() {
                     <ul className="cards__items">
 
                     <CardItem 
-                    src="images/python-logo.png"
+                    src="images/piggy.png"
                     text="Banking Application"
                     label = 'Technical Skills'
                     />
 
                     <CardItem 
-                    src="images/python-logo.png"
+                    src="images/html.png"
                     text="Simple Website" 
                     label = 'Technical Skills'
                     />
@@ -112,13 +112,13 @@ function Cards() {
                     <ul className="cards__items">
 
                     <CardItem 
-                    src="images/python-logo.png"
+                    src="images/game.png"
                     text="Game and Review Database"
                     label = 'Technical Skills'
                     />
 
                     <CardItem 
-                    src="images/python-logo.png"
+                    src="images/resume.png"
                     text="Online Resume Page"
                     label = 'Technical Skills'
                     />
@@ -128,13 +128,13 @@ function Cards() {
                     <ul className="cards__items">
 
                     <CardItem 
-                    src="images/python-logo.png"
+                    src="images/work.png"
                     text="SportChek Hard Goods Sales Associate"
                     label = 'Experience'
                     />
 
                     <CardItem 
-                    src="images/python-logo.png"
+                    src="images/geer.jpg"
                     text="Geering Up UBC High School Instructor"  
                     label = 'Experience'
                     />
@@ -144,14 +144,14 @@ function Cards() {
                     <ul className="cards__items">
 
                     <CardItem 
-                    src="images/python-logo.png"
+                    src="images/cadets.jpg"
                     text="888 Avernger RCACS" 
                     subText = "Squadron Deputy Commander"
                     label = 'Experience'
                     />
 
                     <CardItem 
-                    src="images/python-logo.png"
+                    src="images/boat.jpg"
                     text="DragonBoating" 
                     label = 'Hobby'
                     />    
@@ -162,14 +162,14 @@ function Cards() {
                     <ul className="cards__items">
 
                     <CardItem 
-                    src="images/python-logo.png"
+                    src="images/gliding.jpg"
                     text="Glider's Pilot Licence" 
                     subText = "Achieved in 2016"
                     label = 'Hobby'
                     />
 
                     <CardItem 
-                    src="images/python-logo.png"
+                    src="images/power.jpg"
                     text="Pilot Licence" 
                     subText = "Achieved in 2017"
                     label = 'Hobby'

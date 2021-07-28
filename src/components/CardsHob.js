@@ -10,19 +10,24 @@ function CardsHob() {
                     <ul className="cards__items">
 
                     <CardItem 
-                    src="images/python-logo.png"
+                    src="images/boat.jpg"
+                    text="DragonBoating" 
+                    label = 'Hobby'
+                    />
+
+                    <CardItem 
+                    src="images/gliding.jpg"
                     text="Glider's Pilot Licence" 
                     subText = "Achieved in 2016"
                     label = 'Hobby'
                     />
 
                     <CardItem 
-                    src="images/python-logo.png"
+                    src="images/power.jpg"
                     text="Pilot Licence" 
                     subText = "Achieved in 2017"
                     label = 'Hobby'
-                    />    
-
+                    />
 
                     </ul>
                 </div>

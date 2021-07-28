@@ -34,7 +34,7 @@ function CardsTech() {
                     <ul className="cards__items">
 
                     <CardItem 
-                    src="images/c.png"
+                    src="images/c-logo.png"
                     text="C++/C#/C"
                     label = 'Technical Skills'
                     />
@@ -83,13 +83,13 @@ function CardsTech() {
                     <ul className="cards__items">
 
                     <CardItem 
-                    src="images/python-logo.png"
+                    src="images/piggy.png"
                     text="Banking Application"
                     label = 'Technical Skills'
                     />
 
                     <CardItem 
-                    src="images/python-logo.png"
+                    src="images/html.png"
                     text="Simple Website" 
                     label = 'Technical Skills'
                     />
@@ -99,13 +99,13 @@ function CardsTech() {
                     <ul className="cards__items">
 
                     <CardItem 
-                    src="images/python-logo.png"
+                    src="images/game.png"
                     text="Game and Review Database"
                     label = 'Technical Skills'
                     />
 
                     <CardItem 
-                    src="images/python-logo.png"
+                    src="images/resume.png"
                     text="Online Resume Page"
                     label = 'Technical Skills'
                     />
